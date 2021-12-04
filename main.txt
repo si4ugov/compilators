@@ -1,0 +1,21 @@
+#include <stdlib.h>
+
+int proc length (char[]);
+
+int main() {
+
+int var, i, j=11;
+
+bool b;
+
+char str[20];
+
+do { var = length(str) + i*j;
+
+i++;
+
+b = (j*j-var);
+
+} while (b);
+
+}
